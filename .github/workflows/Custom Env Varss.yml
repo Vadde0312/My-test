@@ -1,7 +1,6 @@
 name: 'Custom Env Vars'
 
-on:
-  work_flow_dispatch:
+on: work_flow_dispatch
 
 env:
   Day_of_Week: Funday
